@@ -3,6 +3,7 @@
 <p align="center">
   <img src="renders/tokyoalley1.png" width="500"/>
   <img src="renders/tokyoalley2.png" width="500"/>
+  <img src="renders/wireframe.png" width="500"/>
 </p>
 
 A rainy Tokyo-inspired alley created in Blender, featuring shops, puddles, and stylized low-poly architecture.
